@@ -1,0 +1,6 @@
+<?php
+
+readfile("file.txt");
+
+
+?>
